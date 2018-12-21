@@ -1,0 +1,20 @@
+{
+  "name": "blackcoffee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react-dom": "^16.7.0",
+    "react": "^16.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "Libhongo Langa",
+  "license": "MIT"
+}
